@@ -1,0 +1,114 @@
+div{
+    background-color: #6c8a73 ;
+}
+body{
+    margin: 0;
+    
+}
+h1{
+    font-family: 'sacramento';
+    font-size: 562.5%;
+}
+h2{
+    font-size: 350%;
+    margin-top: 0%;
+}
+h3{
+    font-size: 280%;
+    font-family: 'merryweather' cursive;
+    font-weight: lighter;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+.s{
+    color: #11676a;
+
+}
+.i{
+    position: relative;
+    left: 18%;
+}
+.j{
+    margin-left: 80%;
+    margin-bottom: 0%;
+}
+.k{
+    margin-bottom: 5%;
+    margin-left: 2%;
+}
+.l{
+    position: relative;
+    top: 2%;
+    margin-top: 0%;
+}
+.m{
+    border-radius: 100%;
+}
+.profile{
+    text-align: center;
+    justify-content: center;
+}
+.intro{
+    width: 40%;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+.skills{
+    text-align: center;
+    justify-content:center;
+    margin-bottom: 0%;
+}
+.skill-row{
+    text-align: center;
+    justify-content: center;
+    margin: auto,50% ,auto, 50%;
+}
+.contact-me{
+    text-align: center;
+    justify-content: center;
+}
+.cv{
+    text-align: center;
+    justify-content: center;
+}
+.bottom-container{
+    background-color: #11676a;
+    text-align: center;
+    justify-content: center;
+    padding: 0px 0 0px;
+}
+.gt{
+    margin-bottom: 1%;
+
+}
+.india{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 80px;
+}
+.pro{
+    text-align: center;
+    margin-bottom: 0%;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto;
+    
+}
+.per{
+    margin-bottom: 0px;
+}
+.btn:hover {
+    background: linear-gradient(#408c99, #599bb3);
+  }
+a{
+    color: #032d2e;
+    margin: 1px 20px;
+    text-decoration: none;
+}
+a:hover{
+    background: linear-gradient(#408c99, #599bb3);
+}
